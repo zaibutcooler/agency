@@ -1,6 +1,6 @@
-# Contributing to Uwu
+# Contributing to agency
 
-Thank you for considering contributing to Uwu! Please take a moment to review the following guidelines.
+Thank you for considering contributing to agency! Please take a moment to review the following guidelines.
 
 ## Code of Conduct
 
@@ -13,7 +13,7 @@ This project and everyone participating in it are governed by the [Code of Condu
 2. Clone the forked repository to your local machine:
 
    ```bash
-   git clone https://github.com/zaibutcooler/Uwu.git
+   git clone https://github.com/zaibutcooler/agency.git
    ```
 
 3. Create a new branch for your feature or bug fix:
@@ -41,7 +41,7 @@ This project and everyone participating in it are governed by the [Code of Condu
 
 ## Reporting Issues
 
-If you find any issues or have suggestions, please open an issue on the [Issue Tracker](https://github.com/zaibutcooler/Uwu/issues).
+If you find any issues or have suggestions, please open an issue on the [Issue Tracker](https://github.com/zaibutcooler/agency/issues).
 
 ## Style Guide
 
@@ -53,4 +53,4 @@ If you find any issues or have suggestions, please open an issue on the [Issue T
 
 By contributing, you agree that your contributions will be licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-Thank you for contributing to Uwu!
+Thank you for contributing to agency!
