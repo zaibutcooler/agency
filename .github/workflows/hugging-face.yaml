@@ -12,6 +12,10 @@ jobs:
         with:
           fetch-depth: 0
           lfs: true
+      - name: Set Git identity
+        run: |
+          git config --global user.email "github-actions-bot@github.com"
+          git config --global user.name "GitHub Actions"
 
       - name: Update README.md
         run: |
