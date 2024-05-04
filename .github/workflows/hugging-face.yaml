@@ -22,7 +22,7 @@ jobs:
           tmp_file=$(mktemp)
           echo "---" >> $tmp_file
           echo "title: Agency" >> $tmp_file
-          echo "emoji: 📈" >> $tmp_file
+          echo "emoji: 🤝" >> $tmp_file
           echo "colorFrom: yellow" >> $tmp_file
           echo "colorTo: gray" >> $tmp_file
           echo "sdk: streamlit" >> $tmp_file
